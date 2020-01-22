@@ -1,36 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/WSTC2007/WSTC2007.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently I am third year graduate student of [Department of Computer Science and Technology](https://cs.nju.edu.cn/) in [Nanjng University](https://www.nju.edu.cn/) and a member of [Natural Language Processing Group](http://nlp.nju.edu.cn/homepage/people.html), led by professor [Xin-Yu Dai](https://cs.nju.edu.cn/daixinyu/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Supervisor
 
-### Markdown
+Professor [Xinyu Dai](https://cs.nju.edu.cn/daixinyu/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Biography
+I received my B.Sc. degree from [Nanjing University](https://www.nju.edu.cn/) in June 2016. In the same year, I was admitted to study for a M.Sc. degree in [Nanjing University](https://www.nju.edu.cn/).
 
-```markdown
-Syntax highlighted code block
+### Research Interest
+My research interests include: Maching Reading Comprehension.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WSTC2007/WSTC2007.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Publications
 
 ### Support or Contact
 
