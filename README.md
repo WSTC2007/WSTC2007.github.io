@@ -14,6 +14,11 @@ My research interests include: Maching Reading Comprehension.
 
 ## Publications
 
+## Awards and Honors
+- National Scholarship                    Ministry of Education of China           2014
+- Second Class People's Scholarship       Nanjing University                       2013
+- Third Class People's Scholarship        Nanjing University                       2015
+
 ## Support or Contact
 My email is 15720828500@163.com.
 
